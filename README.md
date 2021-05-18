@@ -1,6 +1,15 @@
-# Simple MVC
+# Rock On Mars
 
 ## Description
+
+Hackathon interne Wild Code School Toulouse
+
+**Sujet : The Lonely Martians | Etre seul sur mars**
+
+Afin de répondre à la problématique de la sollitude, notre groupe à choisi de créer une application qui permet aux utilisateurs de créer ou bien de rejoindre une activité.
+
+
+## Description template structure
 
 This repository is a simple PHP MVC structure from scratch.
 
