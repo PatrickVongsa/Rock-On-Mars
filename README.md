@@ -14,6 +14,7 @@ Afin de répondre à la problématique de la solitude, notre groupe à choisi de
 - [Stephanie MARIANI](https://github.com/stephaniem31)
 - Patrick VONGSA
 
+Durée du projet : 48h.
 
 ## Description template structure
 
