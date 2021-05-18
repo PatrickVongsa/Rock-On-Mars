@@ -8,6 +8,12 @@ Hackathon interne Wild Code School Toulouse
 
 Afin de répondre à la problématique de la sollitude, notre groupe à choisi de créer une application qui permet aux utilisateurs de créer ou bien de rejoindre une activité.
 
+**Collaborateurs :**
+- [Clément BACQUET](https://github.com/atx834)
+- [Quentin BURTY](https://github.com/Quentin-BURTY)
+- [Stephanie MARIANI](https://github.com/stephaniem31)
+- Patrick VONGSA
+
 
 ## Description template structure
 
